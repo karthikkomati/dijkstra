@@ -85,6 +85,3 @@ if __name__ == "__main__":
         print(dijkstra2(adj1, o))
 
 
-    #graph_ns, graph_ms, times = math1058_cwk.run_experiments(dijkstra1, 2707128)
-    #graph_ns, graph_ms, times = math1058_cwk.run_experiments(dijkstra2, 2707128)
-#
